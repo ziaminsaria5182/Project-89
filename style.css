@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to right, #654ea3, #eaafc8);
+    align-items: center;
+}
+.login_div1 , .login_div2{
+    background-color: rgb(227, 162, 225);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#player1_name , #player2_name{
+    display: inline-block;
+    margin-left: 20px;
+}
+#btn {
+    background-color: rgb(141, 90, 171);
+    color: white;
+    font-size: 17px;
+ font-weight: bold;
+    border: white;
+    border-radius: 10px;
+    border-style: double;
+    margin-top: 50px;
+}
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#send_btn{
+    background-color: rgb(141, 90, 171);
+    color: white;
+    font-size: 17px;
+ font-weight: bold;
+    border: white;
+    border-radius: 10px;
+    border-style: double;
+    margin-top: 50px;
+}
